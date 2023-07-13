@@ -2,7 +2,7 @@
 
 Submitted by: **Shamli Ingole**
 
-**Background Color Changer** is an app that changes the color in the backround on a button click
+**Background Color Changer** is an app that changes the color of the background on a button click
 
 Time spent: **5** hours spent in total
 
@@ -30,8 +30,8 @@ GIF created with Licecap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-1. It is the first time I built ios app, it took me some time to attach eent to the lables and buttons
+Describe any challenges you encountered while building the app.
+1. It is the first time I built an iOS app, and it took me some time to attach events to the labels and buttons
 
 ## License
 
